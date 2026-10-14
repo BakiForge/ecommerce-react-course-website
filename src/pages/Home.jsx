@@ -26,4 +26,4 @@ export default function Home() {
     );
 }
 
-console.log('Test')
+console.logg('Test');
